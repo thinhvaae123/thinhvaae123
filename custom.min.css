@@ -1,0 +1,1 @@
+body:before{white-space:pre;font-family:monospace;content:"Error: Invalid CSS after \"    padding\": expected \";\", was \": 0 !important\"\A         on line 4 of D:\HTML\custom.scss\A \A 1: /* reset margin, padding */\A 2: body {\A 3:     margin: 0 !important\A 4:     padding: 0 !important\A 5:     }\A 6:     \A 7:     .red {\A 8:         border : 1px solid red;\A 9:     }"}
